@@ -1,3 +1,3 @@
 Git is a destributed version control system.
-Gis is a free software.
+Git is a free software distributed under the GPL.
 123
